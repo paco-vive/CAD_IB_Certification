@@ -38,7 +38,7 @@ The goal was to create a **functional, low-cost, and ergonomic portable desk** f
 
 ## 📷 Preview
 
-![Portable Desk Render](preview.png)
+![Portable Desk Render](preview.jpeg)
 
 ---
 
