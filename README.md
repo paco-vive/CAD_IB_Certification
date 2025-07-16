@@ -28,7 +28,7 @@ The goal was to create a **functional, low-cost, and ergonomic portable desk** f
 ## 🔗 Onshape Project Link
 
 You can explore the full interactive CAD model and assembly here:  
-https://cad.onshape.com/documents/b50533277b3a9b13a73988bd/w/06cc6a27b0be7bdd32ebd9c1/e/bdad27d35cb4aaf410c7323d
+[Portable Desk on Onshape](<https://cad.onshape.com/documents/b50533277b3a9b13a73988bd/w/06cc6a27b0be7bdd32ebd9c1/e/bdad27d35cb4aaf410c7323d>)
 
 ---
 
