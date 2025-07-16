@@ -59,7 +59,7 @@ This project is shared for educational purposes. Please credit appropriately if 
 Feel free to explore, comment, or contribute!  
 If you have ideas for improving or manufacturing this design at scale, I'm open to collaboration.
 
-[📫 LinkedIn](https://www.linkedin.com/in/tu-perfil) – Replace with your actual profile link.
+[📫 LinkedIn](www.linkedin.com/in/francisco-viveros-mendoza-a20a06328) – Replace with your actual profile link.
 
 ---
 
