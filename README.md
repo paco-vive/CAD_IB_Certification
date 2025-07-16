@@ -29,7 +29,7 @@ The goal was to create a **functional, low-cost, and ergonomic portable desk** f
 
 | File/Folder         | Description                                 |
 |---------------------|---------------------------------------------|
-| `desk_assembly.step` | Full CAD assembly of the desk (3D model)    |
+| `desk_assembly.stl` | Full CAD assembly of the desk (3D model)    |
 | `parts/`            | Individual part files exported from Onshape |
 | `desk_layout.pdf`   | Printable 2D technical drawing               |
 | `preview.png`       | Render or screenshot of the final design     |
