@@ -25,6 +25,14 @@ The goal was to create a **functional, low-cost, and ergonomic portable desk** f
 
 ---
 
+## 🔗 Onshape Project Link
+
+You can explore the full interactive CAD model and assembly here:  
+[Portable Desk on Onshape](https://cad.onshape.com/documents/b50533277b3a9b13a73988bd/w/06cc6a27b0be7bdd32ebd9c1/e/bdad27d35cb4aaf410c7323d?renderMode=0&uiState=6877fc79cc95e74f1a510d2d)  
+
+
+---
+
 ## 📂 Files Included
 
 | File/Folder         | Description                                 |
@@ -59,10 +67,9 @@ This project is shared for educational purposes. Please credit appropriately if 
 Feel free to explore, comment, or contribute!  
 If you have ideas for improving or manufacturing this design at scale, I'm open to collaboration.
 
-[📫 LinkedIn](https://www.linkedin.com/in/francisco-viveros-mendoza-a20a06328) – Replace with your actual profile link.
+[📫 LinkedIn](https://www.linkedin.com/in/francisco-viveros-mendoza-a20a06328)
 
 ---
 
 **Designed and prototyped with impact in mind.**  
 *Education is a right, not a privilege.*
-
