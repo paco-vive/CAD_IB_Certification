@@ -1,2 +1,68 @@
-# CAD_IB_Certification
-Complete CAD design and functional prototype of a low-cost, portable school desk. Created using Onshape as part of my International Baccalaureate (IB) social-impact certification. Includes full 3D assembly, part exports, technical drawings, and documentation. 
+# 🪑 Portable Desk for Low-Resource Schools
+
+This project was developed as part of my **International Baccalaureate (IB) Certification**, with a strong focus on **social impact through engineering design**.
+
+The goal was to create a **functional, low-cost, and ergonomic portable desk** for students in underserved educational environments. Designed entirely in **Onshape**, this desk is optimized for ease of assembly, affordability, and durability.
+
+---
+
+## 📌 Project Overview
+
+- 🎯 **Objective**: Design a portable, low-cost school desk to support students in low-resource areas.
+- 🛠️ **Software**: Onshape (cloud-based parametric CAD)
+- 🧠 **Skills applied**: 3D modeling, design for manufacturing, ergonomics, documentation
+- 🧾 **Output**: Full CAD assembly, parts, and printable drawings
+
+---
+
+## 🧩 Features
+
+- ✅ Compact and foldable structure
+- ✅ Designed with accessible materials like plywood or MDF
+- ✅ Lightweight for easy transportation
+- ✅ Cost-effective and easy to manufacture
+- ✅ Scalable for community deployment
+
+---
+
+## 📂 Files Included
+
+| File/Folder         | Description                                 |
+|---------------------|---------------------------------------------|
+| `desk_assembly.step` | Full CAD assembly of the desk (3D model)    |
+| `parts/`            | Individual part files exported from Onshape |
+| `desk_layout.pdf`   | Printable 2D technical drawing               |
+| `preview.png`       | Render or screenshot of the final design     |
+
+---
+
+## 📷 Preview
+
+![Portable Desk Render](preview.png)
+
+---
+
+## 🧪 Use Case
+
+This design was created to demonstrate how **engineering can empower education**. By combining CAD tools with a real-world social need, this project aimed to bring **practical, tangible support to students** in communities where classroom infrastructure is limited or nonexistent.
+
+---
+
+## 📜 Licensing
+
+This project is shared for educational purposes. Please credit appropriately if reused or modified.
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to explore, comment, or contribute!  
+If you have ideas for improving or manufacturing this design at scale, I'm open to collaboration.
+
+[📫 LinkedIn](https://www.linkedin.com/in/tu-perfil) – Replace with your actual profile link.
+
+---
+
+**Designed and prototyped with impact in mind.**  
+*Education is a right, not a privilege.*
+
